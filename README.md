@@ -1,1 +1,1 @@
-This is not  aproject. Meant for only practice.
+This is not a project. Meant for only practice.
